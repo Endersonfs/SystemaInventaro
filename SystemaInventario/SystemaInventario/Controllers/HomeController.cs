@@ -7,8 +7,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using SystemaInventario.Modelos.ViewModels;
 
-namespace SystemaInventario.Controllers
+namespace SystemaInventario.Areas.Inventario.Controllers
 {
+    [Area("Inventario")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
