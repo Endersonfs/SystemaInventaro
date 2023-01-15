@@ -21,13 +21,13 @@ using SystemaInventario;
 #nullable disable
 #nullable restore
 #line 2 "E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\Views\_ViewImports.cshtml"
-using SystemaInventario.Models;
+using SystemaInventario.Modelos.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"807f21cfbaba315eb6c1fb5814f4a0980b736a7f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c2fe5b1ec153d159ee5d84723c73a4e1a76ac6cc", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998

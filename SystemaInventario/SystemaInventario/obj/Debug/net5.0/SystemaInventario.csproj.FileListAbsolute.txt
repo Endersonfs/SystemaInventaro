@@ -397,3 +397,4 @@ E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Deb
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.AccesoDatos.pdb
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.Modelos.pdb
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.Utilidades.pdb
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.MvcApplicationPartsAssemblyInfo.cs

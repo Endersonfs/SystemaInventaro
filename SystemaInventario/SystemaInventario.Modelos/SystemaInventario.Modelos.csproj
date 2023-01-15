@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SystemaInventario.AccesoDatos\SystemaInventario.AccesoDatos.csproj" />
+    <ProjectReference Include="..\SystemaInventario.Utilidades\SystemaInventario.Utilidades.csproj" />
+  </ItemGroup>
+
 </Project>

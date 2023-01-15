@@ -21,13 +21,13 @@ using SystemaInventario;
 #nullable disable
 #nullable restore
 #line 2 "E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\Views\_ViewImports.cshtml"
-using SystemaInventario.Models;
+using SystemaInventario.Modelos.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d8ddb6bffa5a9b264bf8f89038bf03c234083fd3", @"/Views/Home/Privacy.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"807f21cfbaba315eb6c1fb5814f4a0980b736a7f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c2fe5b1ec153d159ee5d84723c73a4e1a76ac6cc", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Privacy : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

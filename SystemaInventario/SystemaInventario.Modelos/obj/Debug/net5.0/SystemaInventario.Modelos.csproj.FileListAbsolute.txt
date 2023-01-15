@@ -10,3 +10,8 @@ E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos\obj\Debug\net5.0\SystemaInventario.Modelos.dll
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos\obj\Debug\net5.0\ref\SystemaInventario.Modelos.dll
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos\obj\Debug\net5.0\SystemaInventario.Modelos.pdb
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos\bin\Debug\net5.0\SystemaInventario.AccesoDatos.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos\bin\Debug\net5.0\SystemaInventario.Utilidades.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos\bin\Debug\net5.0\SystemaInventario.AccesoDatos.pdb
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos\bin\Debug\net5.0\SystemaInventario.Utilidades.pdb
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Modelos\obj\Debug\net5.0\SystemaInventario.Modelos.csproj.CopyComplete
