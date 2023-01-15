@@ -444,3 +444,7 @@ E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Deb
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\Razor\Areas\Inventario\Views\Home\Privacy.cshtml.g.cs
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\Razor\Areas\Inventario\Views\_ViewImports.cshtml.g.cs
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\Razor\Areas\Inventario\Views\_ViewStart.cshtml.g.cs
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Privacy.cshtml.g.cs
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
