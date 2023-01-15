@@ -365,7 +365,6 @@ E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Deb
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.AssemblyInfoInputs.cache
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.AssemblyInfo.cs
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.csproj.CoreCompileInputs.cache
-E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.MvcApplicationPartsAssemblyInfo.cs
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.MvcApplicationPartsAssemblyInfo.cache
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.RazorAssemblyInfo.cache
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.RazorAssemblyInfo.cs
@@ -392,3 +391,9 @@ E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Deb
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\ref\SystemaInventario.dll
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.pdb
 E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\obj\Debug\net5.0\SystemaInventario.genruntimeconfig.cache
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.AccesoDatos.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.Modelos.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.Utilidades.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.AccesoDatos.pdb
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.Modelos.pdb
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario\bin\Debug\net5.0\SystemaInventario.Utilidades.pdb

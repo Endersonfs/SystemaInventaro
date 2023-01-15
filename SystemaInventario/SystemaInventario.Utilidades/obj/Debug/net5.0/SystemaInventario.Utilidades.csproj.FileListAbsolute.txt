@@ -1,0 +1,12 @@
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\bin\Debug\net5.0\SystemaInventario.Utilidades.deps.json
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\bin\Debug\net5.0\SystemaInventario.Utilidades.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\bin\Debug\net5.0\ref\SystemaInventario.Utilidades.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\bin\Debug\net5.0\SystemaInventario.Utilidades.pdb
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\obj\Debug\net5.0\SystemaInventario.Utilidades.csproj.AssemblyReference.cache
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\obj\Debug\net5.0\SystemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\obj\Debug\net5.0\SystemaInventario.Utilidades.AssemblyInfoInputs.cache
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\obj\Debug\net5.0\SystemaInventario.Utilidades.AssemblyInfo.cs
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\obj\Debug\net5.0\SystemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\obj\Debug\net5.0\SystemaInventario.Utilidades.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\obj\Debug\net5.0\ref\SystemaInventario.Utilidades.dll
+E:\Enderson\Endprog\SystemaIventario\SystemaInventario\SystemaInventario.Utilidades\obj\Debug\net5.0\SystemaInventario.Utilidades.pdb

@@ -1857,6 +1857,42 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "SystemaInventario.AccesoDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.17",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
+        },
+        "compile": {
+          "bin/placeholder/SystemaInventario.AccesoDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SystemaInventario.AccesoDatos.dll": {}
+        }
+      },
+      "SystemaInventario.Modelos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SystemaInventario.Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SystemaInventario.Modelos.dll": {}
+        }
+      },
+      "SystemaInventario.Utilidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SystemaInventario.Utilidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SystemaInventario.Utilidades.dll": {}
+        }
       }
     }
   },
@@ -6707,6 +6743,21 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "SystemaInventario.AccesoDatos/1.0.0": {
+      "type": "project",
+      "path": "../SystemaInventario.AccesoDatos/SystemaInventario.AccesoDatos.csproj",
+      "msbuildProject": "../SystemaInventario.AccesoDatos/SystemaInventario.AccesoDatos.csproj"
+    },
+    "SystemaInventario.Modelos/1.0.0": {
+      "type": "project",
+      "path": "../SystemaInventario.Modelos/SystemaInventario.Modelos.csproj",
+      "msbuildProject": "../SystemaInventario.Modelos/SystemaInventario.Modelos.csproj"
+    },
+    "SystemaInventario.Utilidades/1.0.0": {
+      "type": "project",
+      "path": "../SystemaInventario.Utilidades/SystemaInventario.Utilidades.csproj",
+      "msbuildProject": "../SystemaInventario.Utilidades/SystemaInventario.Utilidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6716,7 +6767,10 @@
       "Microsoft.AspNetCore.Identity.UI >= 5.0.17",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 5.0.17",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.17"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.17",
+      "SystemaInventario.AccesoDatos >= 1.0.0",
+      "SystemaInventario.Modelos >= 1.0.0",
+      "SystemaInventario.Utilidades >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6745,7 +6799,17 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.AccesoDatos\\SystemaInventario.AccesoDatos.csproj": {
+              "projectPath": "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.AccesoDatos\\SystemaInventario.AccesoDatos.csproj"
+            },
+            "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Modelos\\SystemaInventario.Modelos.csproj": {
+              "projectPath": "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Modelos\\SystemaInventario.Modelos.csproj"
+            },
+            "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Utilidades\\SystemaInventario.Utilidades.csproj": {
+              "projectPath": "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Utilidades\\SystemaInventario.Utilidades.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
