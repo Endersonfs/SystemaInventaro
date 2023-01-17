@@ -27,7 +27,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Modelos\\SystemaInventario.Modelos.csproj": {
+                "projectPath": "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Modelos\\SystemaInventario.Modelos.csproj"
+              },
+              "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Utilidades\\SystemaInventario.Utilidades.csproj": {
+                "projectPath": "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Utilidades\\SystemaInventario.Utilidades.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -99,14 +106,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.AccesoDatos\\SystemaInventario.AccesoDatos.csproj": {
-                "projectPath": "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.AccesoDatos\\SystemaInventario.AccesoDatos.csproj"
-              },
-              "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Utilidades\\SystemaInventario.Utilidades.csproj": {
-                "projectPath": "E:\\Enderson\\Endprog\\SystemaIventario\\SystemaInventario\\SystemaInventario.Utilidades\\SystemaInventario.Utilidades.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

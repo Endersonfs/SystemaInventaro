@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using SystemaInventario.Modelos;
 
 namespace SystemaInventario.AccesoDatos.Data
 {
@@ -12,5 +13,8 @@ namespace SystemaInventario.AccesoDatos.Data
             : base(options)
         {
         }
+
+        //entidades
+        public DbSet<Bodega> Bodegas { get; set; }
     }
 }
